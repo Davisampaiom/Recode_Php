@@ -1,0 +1,97 @@
+
+/* menu*/
+.menu{
+    display: flex;
+    background-color: red;
+    height: 80px;
+}
+.menu a {
+    color: white;
+    margin: auto;
+    text-decoration: none;}
+
+#logo{
+    margin-left: 0%;}
+    /* menu*/
+
+    /* rodape*/
+#rodape{
+    text-align: center;
+}
+#pagamento{
+    color: red;}
+  /* rodape*/
+
+  /* Nossas lojas*/
+.containerEnd{ 
+    display: flex;
+    align-content: center; 
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;    
+}
+.end{
+   margin-left: 10%;
+   float: left;   }
+   /* Nossas lojas*/
+
+/* Contato*/
+ #Mensagem{
+     margin: 0px;
+     height: 200px;
+     width: 330px;
+ }
+   /* Contato*/
+
+   /* Produtos*/
+
+.categorias{
+    white-space: nowrap;
+    height: 140px;
+    
+ }
+ 
+
+/* .pagProdutos{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    flex-wrap: wrap;
+}
+
+.produtos{
+    margin-top: -13%;
+    margin-left: 20%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}*/
+.box_produtos{
+    display: inline-block;
+    width: 250px;
+    height: 360px;
+    
+    margin-left: 50px; 
+    margin-bottom: 20px;  
+    
+    
+    padding-right:20px;
+    padding-left: 20px;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+   /* Produtos*/
+
+/*pedidos*/
+
+
+
+
+
